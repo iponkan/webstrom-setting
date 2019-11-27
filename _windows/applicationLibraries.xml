@@ -37,6 +37,28 @@
       </CLASSES>
       <SOURCES />
     </library>
+    <library name="panolens" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_uss.sonicers.com_panolens_js_panolens_panolens.min.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_uss.sonicers.com_panolens_js_panolens_panolens.min.js" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="three" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_uss.sonicers.com_panolens_js_three_three.min.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_uss.sonicers.com_panolens_js_three_three.min.js" />
+      </CLASSES>
+      <SOURCES />
+    </library>
     <library name="wxmoment" type="javaScript">
       <properties>
         <sourceFilesUrls>
