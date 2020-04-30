@@ -3,8 +3,9 @@
     <extensionMap>
       <mapping ext="wxss" type="CSS" />
       <mapping ext="wxml" type="HTML" />
-      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern="web-ponkan" type="PLAIN_TEXT" />
+      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
+      <mapping pattern=".sudo_as_admin_successful" type="PLAIN_TEXT" />
       <mapping ext="properties" type="PLAIN_TEXT" />
       <mapping ext="jsgz" type="PLAIN_TEXT" />
     </extensionMap>
